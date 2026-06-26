@@ -25,4 +25,15 @@ Projeto desenvolvido para aprendizagem de:
 -João Vitor
 
 ## Repositório 
-projeto criado durante a disciplina de metologias Ágeis
+projeto criado durante a disciplina de metologias 
+Agéis
+
+## Atualizações Recentes
+
+As seguintes melhorias foram implementadas na versão mais recente do projeto:
+
+## Alterações realizadas
+- Melhoria na mensagem de boas-vindas.
+- Melhoria no menu de navegação.
+- Melhoria na apresentação dos membros da equipe.
+- Adição da seção Sobre.
